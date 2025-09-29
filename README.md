@@ -1,96 +1,94 @@
-# Creating a Personalized Google Website Portfolio: A Guide to Secure and User-Friendly Design
+# Self-Learning Activity: Creating a Personalized Google Website Portfolio
 
-In today’s digital era, having a personalized online portfolio is essential for students, professionals, and creatives alike. It not only showcases your skills and achievements but also serves as a secure platform to present your work to potential employers or collaborators. Google Sites is an excellent tool for building such a portfolio because it offers user-friendly features, responsive design, and integration with other Google services. In this article, I will guide you through the process of creating a personalized Google website portfolio, while also considering secure user interface (UI) design principles.
+## Overview
 
-## Why a Personalized Portfolio Matters
+As part of my self-learning activity for the course on **User Interface Design with Security**, I developed a functional micro-project by creating a personalized Google Website Portfolio. This project allowed me to apply core concepts of **secure and user-friendly interface design** while showcasing my skills, projects, and achievements in a professional online format.
 
-A well-designed portfolio helps you stand out in a competitive job market. It provides a central place to display your projects, certificates, and experiences. Moreover, a personalized portfolio communicates your attention to detail, creativity, and technical skills. A portfolio is effective only if it is easy to navigate, visually appealing, and secure.
+The portfolio demonstrates the following key aspects:
 
-## Step 1: Planning Your Portfolio
+- Applying usability and interaction design principles  
+- Ensuring secure content sharing and access control  
+- Creating a responsive and visually appealing interface  
+- Organizing content for easy navigation and accessibility  
 
-Before starting with Google Sites, it is important to plan your structure and content. Consider these questions:
+## Objective
 
-- What sections do I want to include? (e.g., About Me, Projects, Skills, Contact)
-- Who is my target audience? (Employers, clients, or peers)
-- What content format suits my work best? (Images, videos, documents)
+The main objectives of this project were:
 
-Planning ensures that your portfolio is coherent and user-friendly, which is a key aspect of secure UI design. A cluttered or confusing interface can frustrate users and compromise their trust.
+- To build a functional and professional portfolio using Google Sites  
+- To implement secure UI practices, such as access control, secure links, and privacy settings  
+- To apply consistent design principles for improved user experience  
+- To provide a central platform to showcase projects, skills, and certifications  
 
-## Step 2: Setting Up Google Sites
+## Project Steps
 
-1. **Access Google Sites:** Go to [Google Sites](https://sites.google.com/) and log in with your Google account.  
-2. **Choose a Template:** Select one that matches your professional style. The “Portfolio” or “Project” templates are ideal.  
-3. **Customize Layout:** Use sections, headers, and navigation bars to organize your content logically. Clear structure ensures a secure and intuitive user experience.
+### 1. Planning the Portfolio
 
-## Step 3: Adding Content
+Before building the portfolio, I:
 
-Include key sections to effectively showcase your work:
+- Defined the key sections: About Me, Projects, Skills & Certifications, and Contact  
+- Determined the target audience (employers, peers, and clients)  
+- Decided on content format: text, images, videos, and embedded documents  
 
-- **About Me:** Share your background, skills, and interests concisely and professionally.  
-- **Projects:** Highlight your key projects with descriptions, images, and links. Use Google Drive or YouTube to embed files securely.  
-- **Skills & Certifications:** Present technical skills and achievements in a structured way.  
-- **Contact:** Include a contact form or professional email. Avoid exposing sensitive personal information directly.
+### 2. Setting Up Google Sites
 
-### UI Security Tips
+- Accessed [Google Sites](https://sites.google.com/) with my Google account  
+- Selected the “Portfolio” template for professional layout  
+- Customized headers, navigation, and sections to ensure logical structure  
 
-- Ensure all embedded files or links are from trusted sources.  
-- Set appropriate sharing permissions on Google Drive files.  
-- Avoid displaying personal contact info (phone, home address) publicly.
+### 3. Adding Content
 
-## Step 4: Applying UI Design Principles
+- **About Me:** Brief background, skills, and interests  
+- **Projects:** Key projects with descriptions, images, and links to GitHub repositories  
+- **Skills & Certifications:** Highlighted technical skills and professional achievements  
+- **Contact:** Included a professional email for communication  
 
-A strong UI enhances both usability and security. Follow these principles:
+### 4. Applying UI Design Principles
 
-- **Consistency:** Maintain uniform fonts, colors, and layouts across pages.  
-- **Readability:** Use legible fonts, sufficient contrast, and proper spacing.  
-- **Simplicity:** Avoid clutter. Users should easily find information.  
-- **Feedback:** Use clear labels, headings, and navigation cues.
+- Maintained **consistency** in fonts, colors, and layout  
+- Ensured **readability** through proper font size, spacing, and color contrast  
+- Simplified navigation to reduce user confusion  
+- Provided clear feedback and labels for intuitive interaction  
 
-Well-designed interfaces reduce errors, ensure smooth navigation, and create a sense of trust—important for secure user experience.
+### 5. Ensuring Security
 
-## Step 5: Ensuring Security
+- Enabled **access control** so only I can edit the portfolio  
+- Used **HTTPS** links for all embedded content  
+- Avoided sharing sensitive personal information publicly  
+- Enabled **two-factor authentication (2FA)** on my Google account  
 
-While Google Sites provides basic security, you can add extra protection:
+### 6. Advanced Features
 
-- **Access Control:** Limit editing to your account to prevent unauthorized changes.  
-- **Secure Links:** Use HTTPS for embedded links and media.  
-- **Strong Authentication:** Use a strong password and enable two-factor authentication (2FA) for your Google account.  
-- **Privacy Settings:** Decide which pages are public or restricted.  
-- **Regular Updates:** Review content periodically and remove outdated info.
+- Embedded Google Docs, Sheets, and Forms securely for interactive content  
+- Integrated media such as YouTube videos for project demonstrations  
 
-## Step 6: Adding Advanced Features
+### 7. Preview, Publish, and Share
 
-- **Embedding Documents:** Add Google Docs, Sheets, or Forms for interactive content.  
-- **Media Integration:** Embed videos or presentations securely from trusted sources.  
-- **Analytics:** Use Google Analytics or similar tools to monitor visitor interaction (optional).
+- Previewed the portfolio on desktop and mobile for responsiveness  
+- Published the portfolio and shared the link through professional channels  
 
-## Step 7: Preview, Publish, and Share
+### 8. Accessibility Considerations
 
-Preview your site on desktop and mobile devices to ensure responsiveness. Test all links, forms, and media. Once satisfied:
+- Used proper **color contrast** and readable fonts  
+- Added **alternative text** for images  
+- Structured headings for **screen reader compatibility**  
 
-1. Click **Publish** and choose a website address.  
-2. Share your portfolio link on **GitHub, LinkedIn, or your resume**.  
-3. Optionally, enable GitHub Pages to host your portfolio with a custom domain.
+## Key Learnings
 
-## Step 8: Accessibility Considerations
+Through this self-learning activity, I gained practical experience in:
 
-Make your portfolio accessible to all users:
+- Designing a secure and user-friendly interface  
+- Applying UI/UX design principles in a real-world project  
+- Organizing and presenting information effectively  
+- Understanding the importance of access control and privacy in web interfaces  
 
-- Use proper color contrast.  
-- Provide alternative text for images.  
-- Ensure headings and navigation are readable by screen readers.  
-- Keep font sizes and styles consistent.
+## GitHub Link to Portfolio Article
 
-Accessibility enhances usability and reflects attention to secure, inclusive UI design.
+The complete article and project documentation are hosted on GitHub:  
+[View Article on GitHub](YOUR_GITHUB_REPO_LINK_HERE)
 
-## Step 9: Future Improvements
+---
 
-- Regularly update projects and achievements.  
-- Integrate new tools or technologies to showcase skills.  
-- Collect feedback from peers to improve navigation and content.
+**Conclusion**
 
-## Conclusion
-
-Creating a personalized Google website portfolio is a rewarding process that combines creativity, professionalism, and security. By planning your structure, applying user-friendly UI principles, and securing your content, you can confidently present your achievements online. A strong portfolio demonstrates your skills, attention to detail, and commitment to providing a safe and enjoyable user experience.
-
-Whether you are a student, developer, or creative professional, Google Sites provides a reliable platform to build and share your portfolio. Start today, and make a lasting impression in the digital world.
+This self-learning activity successfully helped me develop a functional micro-project that applies **secure and user-friendly interface design concepts**. The portfolio not only demonstrates my technical and design skills but also provides a professional platform to showcase my achievements to potential employers and collaborators.
