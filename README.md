@@ -93,7 +93,7 @@ Before publishing, the portfolio was thoroughly tested for:
 - Responsiveness on different screen sizes  
 
 The portfolio is now published and accessible via the following Google Sites link:  
-[View My Portfolio](YOUR_GOOGLE_SITES_LINK_HERE)  
+[View My Portfolio](https://sites.google.com/sakec.ac.in/snehal-jadhav-portfolio/home)  
 
 Sharing the portfolio through professional channels like GitHub, LinkedIn, and resumes helps demonstrate practical skills in a secure and professional format.
 
